@@ -1,2 +1,4 @@
 b subor
 adding another piece of shit
+
+feature2 - changing b_file from within feature2 branch baby
