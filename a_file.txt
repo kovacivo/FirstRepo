@@ -2,3 +2,4 @@ a subor
 adding another information
 
 feature2 - changing A file here from within feature2 branch
+feature1 changing a file
